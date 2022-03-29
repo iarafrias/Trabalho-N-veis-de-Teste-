@@ -1,2 +1,2 @@
-# Trabalho-N-veis-de-Teste-
+# Trabalho-Niveis-de-Teste-
 Trabalho da disciplina Testes Sistemáticos de Software 
